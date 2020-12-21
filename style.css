@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+	font-size: x-large;
+	line-height: 2em;
+	background-color: skyblue;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+input
+{
+	width: 30%;
+	font-size: large;
+}
+
+button
+{
+	font-size: large;
+	background-color: rgb(245, 231, 214);
+}
+
+ul
+{
+	display: inline-block;
+}
